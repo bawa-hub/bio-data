@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 .App {
   text-align: center;
+  color: red;
 }
 
 .App-logo {
@@ -77,27 +78,27 @@ h2 {
 }
 
 .personalDetails {
- background-color: orange;
+ /* background-color: orange; */
 }
 
 .educationDetails {
- background-color: olivedrab;
+ /* background-color: olivedrab; */
 }
 
 .familyDetails {
-background-color: aqua;
+/* background-color: aqua; */
 }
 
 .question {
   font-family: 'Lobster', cursive;
   font-size: 18px;
-  color: black;
+  /* color: black; */
   font-weight: 600;
 }
 
 .answer {
   font-family: 'Times New Roman', Times, serif;
-  color: black;
+  /* color: black; */
   font-size: 18px;
   font-weight: 500;
 }
